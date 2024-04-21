@@ -3,6 +3,10 @@
     margin: 20px 0;
     border: 1px solid #ccc;
     border-radius: 5px;
+    background-image: url('../images/Routes.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Set the height of the body to the full viewport height */
   }
   
   .route-location {
